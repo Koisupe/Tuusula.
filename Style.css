@@ -1,0 +1,56 @@
+body{
+    background: linear-gradient(lightblue,green );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: black;
+    text-decoration: underline;
+    
+}
+p{
+    color: black;
+    font-family:sans-serif, "consolas" ;
+    font-size: larger;
+}
+img{
+    border-style: solid;
+    border-color: darkblue;
+    border-radius: 7px;
+}
+#box1{
+    border: solid;
+    border-radius: 7px;
+    border-color: black;
+    font-family: sans-serif, "consolas";
+    font-size: larger;
+    text-decoration: underline;
+    background-color: green;
+}
+#box2{
+    border: solid;
+    border-radius: 7px;
+    border-color: black;
+    font-family: sans-serif, "consolas";
+    font-size: larger;
+    text-decoration: underline;
+    background-color: green;
+}
+#box3{
+    border: solid;
+    border-radius: 7px;
+    border-color: black;
+    font-family: sans-serif, "consolas";
+    font-size: larger;
+    text-decoration: underline;
+    background-color: green;
+}
+#box4{
+    border: solid;
+    border-radius: 7px;
+    border-color: black;
+    font-family: sans-serif, "consolas";
+    font-size: larger;
+    text-decoration: underline;
+    background-color: green;
+}
